@@ -3,6 +3,10 @@
 A simple web application to fetch and display weather information (temperature, wind speed, humidity) for multiple cities using the [Open-Meteo API](https://open-meteo.com/).  
 The backend is built with Python Flask, and the frontend is a responsive HTML/JavaScript interface.
 
+
+<img width="535" alt="image" src="https://github.com/user-attachments/assets/b69379ef-c013-4471-99bb-bd3b5f034d9d" />
+
+
 ---
 
 ## Features
